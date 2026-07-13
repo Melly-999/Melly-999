@@ -57,4 +57,4 @@ AI tools support research, iteration, code review, testing, and documentation. I
 - **Availability:** Immediate
 - **Engagement:** B2B, freelance or contract
 
-<!-- PORTFOLIO_URL_PENDING -->
+- **Portfolio:** [mateusz-ozimkiewicz-portfolio.vercel.app](https://mateusz-ozimkiewicz-portfolio.vercel.app)
