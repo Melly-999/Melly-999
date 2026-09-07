@@ -1,4 +1,4 @@
-# Mateusz Ozimkiewicz
+
 
 **Full-Stack Developer | React · TypeScript · FastAPI · AI Tools**
 
