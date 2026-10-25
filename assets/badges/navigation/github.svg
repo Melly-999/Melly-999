@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="118" height="24" viewBox="0 0 118 24" role="img" aria-label="GitHub: Profile">
+<title>GitHub — Profile</title>
+<rect x="0.5" y="0.5" width="117" height="23" rx="4" fill="#111827" stroke="#37435A"/>
+<path d="M61 1H114Q117 1 117 4V20Q117 23 114 23H61Z" fill="#475569"/>
+<text x="30.5" y="15.8" text-anchor="middle" font-size="10.6" font-weight="700" font-family="DejaVu Sans,Arial,sans-serif" fill="#EDF4FF">GitHub</text>
+<text x="89.5" y="15.8" text-anchor="middle" font-size="10.6" font-weight="600" font-family="DejaVu Sans,Arial,sans-serif" fill="#FFFFFF">Profile</text>
+</svg>

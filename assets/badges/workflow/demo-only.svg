@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="159" height="24" viewBox="0 0 159 24" role="img" aria-label="Execution: Simulated">
+<title>Execution — Simulated</title>
+<rect x="0.5" y="0.5" width="158" height="23" rx="4" fill="#111827" stroke="#37435A"/>
+<path d="M79 1H155Q158 1 158 4V20Q158 23 155 23H79Z" fill="#9F6C1F"/>
+<text x="39.5" y="15.8" text-anchor="middle" font-size="10.6" font-weight="700" font-family="DejaVu Sans,Arial,sans-serif" fill="#EDF4FF">Execution</text>
+<text x="119.0" y="15.8" text-anchor="middle" font-size="10.6" font-weight="600" font-family="DejaVu Sans,Arial,sans-serif" fill="#FFFFFF">Simulated</text>
+</svg>

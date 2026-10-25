@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="24" viewBox="0 0 168 24" role="img" aria-label="Klaus: In Development">
+<title>Klaus — In Development</title>
+<rect x="0.5" y="0.5" width="167" height="23" rx="4" fill="#111827" stroke="#37435A"/>
+<path d="M53 1H164Q167 1 167 4V20Q167 23 164 23H53Z" fill="#34826B"/>
+<text x="26.5" y="15.8" text-anchor="middle" font-size="10.6" font-weight="700" font-family="DejaVu Sans,Arial,sans-serif" fill="#EDF4FF">Klaus</text>
+<text x="110.5" y="15.8" text-anchor="middle" font-size="10.6" font-weight="600" font-family="DejaVu Sans,Arial,sans-serif" fill="#FFFFFF">In Development</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="24" viewBox="0 0 188 24" role="img" aria-label="OpsPilot: Demo Prototype">
+<title>OpsPilot — Demo Prototype</title>
+<rect x="0.5" y="0.5" width="187" height="23" rx="4" fill="#111827" stroke="#37435A"/>
+<path d="M71 1H184Q187 1 187 4V20Q187 23 184 23H71Z" fill="#A5651E"/>
+<text x="35.5" y="15.8" text-anchor="middle" font-size="10.6" font-weight="700" font-family="DejaVu Sans,Arial,sans-serif" fill="#EDF4FF">OpsPilot</text>
+<text x="129.5" y="15.8" text-anchor="middle" font-size="10.6" font-weight="600" font-family="DejaVu Sans,Arial,sans-serif" fill="#FFFFFF">Demo Prototype</text>
+</svg>

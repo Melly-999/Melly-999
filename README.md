@@ -1,60 +1,98 @@
+<p align="center">
+  <img src="assets/brand/github-en.png" width="1600" alt="MELLY_999 — AI Automation and Full-Stack Development. API integrations, workflow automation and developer tools." />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/brand/typing-fallback.png" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3500&pause=1100&color=27D7F5&background=00000000&center=true&vCenter=true&width=480&height=40&lines=AI+Automation+%26+Full-Stack+Developer;Building+practical+desktop+tools;Automating+workflows;Human-controlled+AI+systems" width="480" height="40" alt="Animated text cycling through four messages: AI Automation &amp; Full-Stack Developer; Building practical desktop tools; Automating workflows; Human-controlled AI systems." />
+  </picture>
+</p>
+
+# Hi, I'm Mateusz Ozimkiewicz
+
+**AI Automation & Full-Stack Developer**
+
+I build practical desktop tools, workflow automation and full-stack applications with explicit human review and clear product boundaries.
+
+Based in Toruń, Poland · working remotely · open to B2B, contract and full-time remote roles.
+
+[![Portfolio — Website](assets/badges/navigation/portfolio.svg)](https://mateusz-ozimkiewicz-portfolio.vercel.app)
+[![GitHub — Profile](assets/badges/navigation/github.svg)](https://github.com/Melly-999)
+
+## Tech stack
+
+![python](assets/badges/technology/python.svg)
+![fastapi](assets/badges/technology/fastapi.svg)
+![react](assets/badges/technology/react.svg)
+![typescript](assets/badges/technology/typescript.svg)
+![PostgreSQL](assets/badges/technology/postgresql.svg)
+![supabase](assets/badges/technology/supabase.svg)
+![rust](assets/badges/technology/rust.svg)
+![tauri](assets/badges/technology/tauri.svg)
+
+Backend: Python · FastAPI · PostgreSQL · Supabase<br />
+Frontend: React · TypeScript · JavaScript<br />
+Desktop: Rust · Tauri
+
+## Featured work
+
+### Melly IDE
+
+<p>
+  <img src="assets/cards/melly-ide.png" width="480" alt="Melly IDE — Local Prototype." />
+</p>
+
+![AI Provider — Disconnected](assets/badges/workflow/ai-disconnected.svg)
+
+A private local code editor prototype with projects, files, backups, offline working copies and guarded change review. The UX02 v4 baseline covers Dashboard ("Hello World"), Code & Review, Agents & Tools, and Agent Chat with local drafts; Pro is an informational preview.
+
+AI replies are disconnected in this baseline. Production authentication, billing and an iOS release are not available. Physical iPhone Safari/PWA acceptance is pending; licensing review remains open. Local development evidence is separate from the private repository's published commit.
+
+### OpsPilot
+
+<p>
+  <img src="assets/cards/opspilot.png" width="480" alt="OpsPilot — Demo Prototype." />
+</p>
+
+![Execution — Simulated](assets/badges/workflow/demo-only.svg)
+
+A deterministic triage demo with human review and simulated external actions. It demonstrates an operations workflow on demo data; live outbound automation is not enabled.
+
+### Yuzuki
+
+<p>
+  <img src="assets/cards/yuzuki.png" width="480" alt="Yuzuki — Private Build." />
+</p>
 
 
-**Full-Stack Developer | React · TypeScript · FastAPI · AI Tools**
+A private, local-first desktop AI application under development, with human-controlled boundaries. No public binary is offered.
 
-I build safety-first AI applications — from typed APIs and automated tests to responsive web, mobile and desktop interfaces.
+### Klaus
 
-My work centers on full-stack delivery, Python/FastAPI development, AI tooling and automation, and safety-first product engineering.
+<p>
+  <img src="assets/cards/klaus.png" width="480" alt="Klaus — In Development." />
+</p>
 
-Available now for remote B2B, freelance and contract work.
 
-Location: Poland
+Developer tooling in development, focused on reviewable workflows and explicit execution boundaries.
 
-Email: [mateusz.ozimkiewicz9@gmail.com](mailto:mateusz.ozimkiewicz9@gmail.com)
+## Engineering principles
 
-[GitHub repositories](https://github.com/Melly-999?tab=repositories) · [Email](mailto:mateusz.ozimkiewicz9@gmail.com)
+- Make implemented, simulated and planned capabilities clear.
+- Keep external actions human-controlled and observable.
+- Prefer explicit contracts and provider adapters.
+- Treat testing, deployment and live verification as separate gates.
 
-## Featured projects
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/mellypet/idle-static.png" />
+    <img src="assets/mellypet/idle.gif" width="160" height="128" alt="MellyPet, a small orange pixel mascot in a dark suit, idling." />
+  </picture>
+</p>
 
-### [MellyTrade](https://github.com/Melly-999/alpha_data_scraper_ai)
+## Let's work together
 
-MellyTrade is a safety-first, read-only AI trading terminal and paper-risk workspace. It combines a Python and FastAPI backend with a React, TypeScript and Vite frontend, typed Pydantic schemas, a mobile/PWA route, and a Tauri desktop thin shell.
+For workflow automation, desktop tools or full-stack development, explore the [portfolio](https://mateusz-ozimkiewicz-portfolio.vercel.app) or email [mateusz.ozimkiewicz9@gmail.com](mailto:mateusz.ozimkiewicz9@gmail.com).
 
-The repository provides verifiable engineering evidence through pytest safety invariants, OpenAPI forbidden-path tests, Playwright end-to-end coverage, Docker, GitHub Actions, and public demo infrastructure on Render and Vercel. The interface focuses on market context, broker status, portfolio and risk views, paper planning, and audit-friendly safety signals.
-
-The public demo is deliberately constrained: it is read-only, dry-run, and paper-only where applicable. Live orders are blocked, human review is required, maximum risk is capped at 1% per trade, and no real-money execution is available. The project demonstrates safety-oriented product and engineering decisions; it does not claim profitability, verified returns, or commercial trading performance.
-
-### [MellyCore AIOS](https://github.com/Melly-999/mellycore-aios-core)
-
-MellyCore AIOS is a static-first AI command center and Living Context Graph foundation for coordinating agents, context, specifications, and safety gates. It explores how documentation, structured evidence, and graph relationships can make complex AI-assisted work easier to inspect and hand off.
-
-Verified repository features include the Living Context Graph, Knowledge Graph Console, multi-agent context handoff, docs-first product architecture, safety-aware design rules, a static responsive showcase, and visual QA evidence. The current public scope has no backend or provider integration, no database, no live ingestion, and no secrets. It is an architectural and interface foundation rather than a claim of a live AI runtime, real-time ingestion system, or autonomous production agent platform.
-
-## Core stack
-
-- **Backend:** Python · FastAPI · Pydantic · pytest
-- **Frontend:** React · TypeScript · Vite · PWA
-- **Desktop:** Tauri
-- **Quality and delivery:** Playwright · Docker · GitHub Actions · Git
-- **AI workflow:** LLM tools · agent workflows · context engineering · structured documentation
-
-## How I work with AI
-
-AI tools support research, iteration, code review, testing, and documentation. I use them to explore options and shorten feedback loops, while keeping the work reviewable through source control, tests, explicit constraints, and written evidence. Architecture, safety constraints, validation, and final engineering decisions remain human-owned.
-
-## Currently focused on
-
-- Building clear full-stack portfolio case studies.
-- Improving MellyTrade's public engineering evidence.
-- Developing MellyCore's Living Context Graph.
-- Open to Full-Stack, Python and AI tooling opportunities.
-
-## Contact
-
-- **Email:** [mateusz.ozimkiewicz9@gmail.com](mailto:mateusz.ozimkiewicz9@gmail.com)
-- **Location:** Poland
-- **Work mode:** Remote
-- **Availability:** Immediate
-- **Engagement:** B2B, freelance or contract
-
-- **Portfolio:** [mateusz-ozimkiewicz-portfolio.vercel.app](https://mateusz-ozimkiewicz-portfolio.vercel.app)
+<sub>Featured products are my own projects, not client deliveries. Project cards and badges are static maturity labels, not live build results or claims of commercial deployment.</sub>

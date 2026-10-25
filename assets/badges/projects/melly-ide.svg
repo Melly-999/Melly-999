@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="24" viewBox="0 0 188 24" role="img" aria-label="Melly IDE: Local Prototype">
+<title>Melly IDE — Local Prototype</title>
+<rect x="0.5" y="0.5" width="187" height="23" rx="4" fill="#111827" stroke="#37435A"/>
+<path d="M76 1H184Q187 1 187 4V20Q187 23 184 23H76Z" fill="#6846CD"/>
+<text x="38.0" y="15.8" text-anchor="middle" font-size="10.6" font-weight="700" font-family="DejaVu Sans,Arial,sans-serif" fill="#EDF4FF">Melly IDE</text>
+<text x="132.0" y="15.8" text-anchor="middle" font-size="10.6" font-weight="600" font-family="DejaVu Sans,Arial,sans-serif" fill="#FFFFFF">Local Prototype</text>
+</svg>

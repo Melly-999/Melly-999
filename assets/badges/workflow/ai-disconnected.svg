@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="189" height="24" viewBox="0 0 189 24" role="img" aria-label="AI Provider: Disconnected">
+<title>AI Provider — Disconnected</title>
+<rect x="0.5" y="0.5" width="188" height="23" rx="4" fill="#111827" stroke="#37435A"/>
+<path d="M88 1H185Q188 1 188 4V20Q188 23 185 23H88Z" fill="#6B7280"/>
+<text x="44.0" y="15.8" text-anchor="middle" font-size="10.6" font-weight="700" font-family="DejaVu Sans,Arial,sans-serif" fill="#EDF4FF">AI Provider</text>
+<text x="138.5" y="15.8" text-anchor="middle" font-size="10.6" font-weight="600" font-family="DejaVu Sans,Arial,sans-serif" fill="#FFFFFF">Disconnected</text>
+</svg>

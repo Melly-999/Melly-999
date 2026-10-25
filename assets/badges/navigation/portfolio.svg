@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="139" height="24" viewBox="0 0 139 24" role="img" aria-label="Portfolio: Website">
+<title>Portfolio — Website</title>
+<rect x="0.5" y="0.5" width="138" height="23" rx="4" fill="#111827" stroke="#37435A"/>
+<path d="M72 1H135Q138 1 138 4V20Q138 23 135 23H72Z" fill="#21769D"/>
+<text x="36.0" y="15.8" text-anchor="middle" font-size="10.6" font-weight="700" font-family="DejaVu Sans,Arial,sans-serif" fill="#EDF4FF">Portfolio</text>
+<text x="105.5" y="15.8" text-anchor="middle" font-size="10.6" font-weight="600" font-family="DejaVu Sans,Arial,sans-serif" fill="#FFFFFF">Website</text>
+</svg>

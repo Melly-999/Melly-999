@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="24" viewBox="0 0 154 24" role="img" aria-label="Yuzuki: Private Build">
+<title>Yuzuki — Private Build</title>
+<rect x="0.5" y="0.5" width="153" height="23" rx="4" fill="#111827" stroke="#37435A"/>
+<path d="M59 1H150Q153 1 153 4V20Q153 23 150 23H59Z" fill="#1579B6"/>
+<text x="29.5" y="15.8" text-anchor="middle" font-size="10.6" font-weight="700" font-family="DejaVu Sans,Arial,sans-serif" fill="#EDF4FF">Yuzuki</text>
+<text x="106.5" y="15.8" text-anchor="middle" font-size="10.6" font-weight="600" font-family="DejaVu Sans,Arial,sans-serif" fill="#FFFFFF">Private Build</text>
+</svg>
